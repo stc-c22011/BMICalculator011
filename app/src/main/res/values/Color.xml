@@ -1,0 +1,8 @@
+<resources>
+    <color name="colorLowWeight">#00ac97</color> <!-- シーグリーン　低体重  -->
+    <color name="colorNormalWeight">#9cbb1c</color> <!-- スプリンググリーン　普通-->
+    <color name="colorObesity1">#e9bc00</color> <!--トパーズ　肥満1  -->
+    <color name="colorObesity2">#f3981d</color> <!-- マンダリンオレンジ　肥満2 -->
+    <color name="colorObesity3">#ea5550</color> <!-- ポピーレッド　肥満3 -->
+    <color name="colorObesity4">#eb6ea0</color> <!-- チェリーピンク　肥満4 -->
+</resources>
